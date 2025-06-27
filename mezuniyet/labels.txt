@@ -1,0 +1,2 @@
+0 donusebilir
+1 donusemeyenler
