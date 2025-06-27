@@ -18,7 +18,7 @@
 **Çoğu yer kafa karıştırıcıydı ama en zorlandığım yer yapay zekanın güven skorunu arttırmak için bir sürü veri bulmak**
 
 
-![Projemin nasıl çalıştığını gösteren bir fotoğraf](resimylu)
+![Projemin nasıl çalıştığını gösteren bir fotoğraf](https://raw.githubusercontent.com/enes06060606/mezuniyet2/refs/heads/main/MEZUNIYET.PNG)
 
 
 
